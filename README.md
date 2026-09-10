@@ -1,4 +1,6 @@
 # Hytale Builds
+[![Hytale](https://img.shields.io/badge/Hytale-168BD2)](https://hytale.com/)
+[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
 
 > [!IMPORTANT]
 > **This repository is not a programming project.**
